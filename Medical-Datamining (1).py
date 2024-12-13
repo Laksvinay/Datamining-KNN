@@ -14,7 +14,7 @@ print("\n python version for K-NN classification analysis is ",python_version())
 import os
 import pandas as pd
 import numpy as np
-dmdata=pd.read_csv("C:/Users/laksh/Desktop/WGU-MS Data analytics/MSDA-D209-Datamining1/Dataset/medical_clean.csv")
+dmdata=pd.read_csv("path/Dataset/medical_clean.csv")
 dmdata.head()
 
 
